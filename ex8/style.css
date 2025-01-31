@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    color:darkslateblue;
+}
+
+button{
+    background-color: darkslateblue;
+    border-color: darkslateblue;
+    width: 5vw;
+    height: 3vh;
+}
